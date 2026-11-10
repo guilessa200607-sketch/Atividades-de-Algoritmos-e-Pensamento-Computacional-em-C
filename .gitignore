@@ -1,0 +1,14 @@
+# Executáveis e objetos
+*.exe
+*.out
+*.o
+*.obj
+programa
+a.out
+
+# Arquivos de IDE / sistema
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
